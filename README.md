@@ -1,7 +1,7 @@
 # Go-No-Go-HW7-
 Code and instructions for a go no go food-based task run on PsychoPy.
 
-To run it - download Go No Go folder
+To run it - download Go No Go folder.
   Inside this folder is stimuli (images) folder.
   The csv file with responses will save here.
   _Update the file paths within the code to your desired location._
